@@ -16,7 +16,7 @@ export class Home extends Component {
 
                         <div className="col-3">
                             <div className="card bg-dark text-light mt-5 mb-4 intro-card">
-                                <img className="card-img-top p-5" src="/img/iot.png" alt="internet of things" />
+                                <img className="card-img-top p-5" src="img/iot.png" alt="internet of things" />
                                 <div className="card-body">
                                     <h5 className="card-title">NB-IoT Communication</h5>
                                     <p className="card-text">Using the T-Mobile network, we are able to communicate with our Twilio dev kits using NB-IoT technology.</p>
@@ -26,7 +26,7 @@ export class Home extends Component {
 
                         <div className="col-3">
                             <div className="card bg-dark text-light mt-5 mb-4 intro-card">
-                                <img className="card-img-top p-5" src="/img/camera.png" alt="camera" />
+                                <img className="card-img-top p-5" src="img/camera.png" alt="camera" />
                                 <div className="card-body">
                                     <h5 className="card-title">Camera View of Power Lines</h5>
                                     <p className="card-text">A camera module takes pictures on its own of the power lines and the surrounding vegetation.</p>
@@ -36,7 +36,7 @@ export class Home extends Component {
 
                         <div className="col-3">
                             <div className="card bg-dark text-light mt-5 mb-4 intro-card">
-                                <img className="card-img-top p-5" src="/img/vision.png" alt="computer vision" />
+                                <img className="card-img-top p-5" src="img/vision.png" alt="computer vision" />
                                 <div className="card-body">
                                     <h5 className="card-title">Computer Vision</h5>
                                     <p className="card-text">Use edge detection to analyze whether vegetation is near or is impacting the power lines.</p>
@@ -46,7 +46,7 @@ export class Home extends Component {
 
                         <div className="col-3">
                             <div className="card bg-dark text-light mt-5 mb-4 intro-card">
-                                <img className="card-img-top p-5" src="/img/vision2.png" alt="computer vision" />
+                                <img className="card-img-top p-5" src="img/vision2.png" alt="computer vision" />
                                 <div className="card-body">
                                     <h5 className="card-title">Machine Learning</h5>
                                     <p className="card-text">Compare images to improve accuracy of vegetation detection and improve overall device efficiency.</p>

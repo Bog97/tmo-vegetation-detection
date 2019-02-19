@@ -24,7 +24,7 @@ export class Navbar extends Component {
 
                 <div className="col-2">
                     <div className="mt-2">
-                        <img className="logo" alt="T-Mobile Logo" src="/img/logo3.png" />
+                        <img className="logo" alt="T-Mobile Logo" src="img/logo3.png" />
                     </div>
                 </div>
             </header>
