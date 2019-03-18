@@ -1,9 +1,16 @@
 import React, { Component } from 'react';
+import background from "../background/powerlines.jpg";
+
+let backgroundStyle = {
+    width: "100vw",
+    height: "100vh",
+    backgroundImage: `url(${background})`
+};
 
 export class Home extends Component {
     render() {
         return (
-            <div className="bg-image">
+            <div style={backgroundStyle}>
                 <div className="intro row p-3 justify-content-center">
                     <h1 className="pb-5">T-Mobile <br /> NB-IoT Vegetation Detection Device <br /> Capstone Project</h1>
                     <h3>Part of the Electrical Engineering 496/497 Entrepenurial Capstone 2019</h3>

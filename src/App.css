@@ -63,7 +63,7 @@
 .bg-image {
   width: 100vw;
   height: 100vh;
-  background-image: url("../../img/powerlines.jpg");
+  background-image: url(/img/powerlines.jpg);
 }
 
 .project-description-section {
