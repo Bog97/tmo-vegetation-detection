@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tmo-vegetation-detection/precache-manifest.abb461de14f08f8d4b4f25cb1fd0d705.js"
+  "/tmo-vegetation-detection/precache-manifest.fdb60dcd965c4ac001984111d9813298.js"
 );
 
 workbox.clientsClaim();
